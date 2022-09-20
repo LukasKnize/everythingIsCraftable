@@ -13,7 +13,7 @@ Addon that adds crafting recepies to all uncraftable items and blocks
 ### I wanna play
 You can download everythingIsCraftable.mcaddon and open it in your minecraft
 
-###I wanna edit
+### I wanna edit
 You can eather download the everythingIsCraftable.brproject (for bridge IDE) or download all raw JSON files
 
 ### Still in early development
