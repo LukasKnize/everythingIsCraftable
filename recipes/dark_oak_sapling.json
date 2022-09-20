@@ -1,0 +1,29 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "eic:dark_oak_sapling"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:leaves2",
+				"data": 1
+			},
+			"i": {
+				"item": "minecraft:stick"
+			}
+		},
+		"pattern": [
+			" # ",
+			" i ",
+			"   "
+		],
+		"result": {
+			"item": "minecraft:sapling",
+			"data": 5
+		}
+	}
+}

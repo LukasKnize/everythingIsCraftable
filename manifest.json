@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"the4neko"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.3.3"
+			],
+			"dash": [
+				"0.9.29"
+			]
+		}
+	},
+	"header": {
+		"name": "everythingIsCraftable",
+		"description": "everything is now craftable!!! For bedrock 1.19.0",
+		"min_engine_version": [
+			1,
+			19,
+			20
+		],
+		"uuid": "3ad7c8db-a673-4b1a-8d4c-b90cc56fa62f",
+		"version": [
+			1,
+			0,
+			1
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "29dac070-402a-4ac1-b1e1-962683d2c490",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "eic:mangrove_propagule"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:mangrove_leaves"
+			},
+			"i": {
+				"item": "minecraft:stick"
+			}
+		},
+		"pattern": [
+			" # ",
+			" i ",
+			"   "
+		],
+		"result": {
+			"item": "minecraft:mangrove_propagule",
+			"data": 0
+		}
+	}
+}

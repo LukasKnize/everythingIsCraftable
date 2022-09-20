@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "eic:redstone_ore"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:cobblestone"
+			},
+			"o": {
+				"item": "minecraft:redstone"
+			}
+		},
+		"pattern": [
+			"###",
+			"#o#",
+			"###"
+		],
+		"result": {
+			"item": "minecraft:redstone_ore"
+		}
+	}
+}

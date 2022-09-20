@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "eic:deepslate_lapis_ore"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:cobbled_deepslate"
+			},
+			"o": {
+				"item": "minecraft:lapis"
+			}
+		},
+		"pattern": [
+			"###",
+			"#o#",
+			"###"
+		],
+		"result": {
+			"item": "minecraft:deepslate_lapis_ore"
+		}
+	}
+}

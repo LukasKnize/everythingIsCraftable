@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "eic:iron_ore"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:cobblestone"
+			},
+			"o": {
+				"item": "minecraft:raw_iron"
+			}
+		},
+		"pattern": [
+			"###",
+			"#o#",
+			"###"
+		],
+		"result": {
+			"item": "minecraft:iron_ore"
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "eic:jungle_sapling"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:leaves",
+				"data": 3
+			},
+			"i": {
+				"item": "minecraft:stick"
+			}
+		},
+		"pattern": [
+			" # ",
+			" i ",
+			"   "
+		],
+		"result": {
+			"item": "minecraft:sapling",
+			"data": 3
+		}
+	}
+}
