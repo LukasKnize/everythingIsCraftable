@@ -8,7 +8,7 @@ Addon that adds crafting recepies to all uncraftable items and blocks
 > Android, IOS, XBOX, Playstation, Windows 10
 
 > Version
-> 1.19.20
+> 1.19.20+
 
 ### I wanna play
 You can download everythingIsCraftable.mcaddon and open it in your minecraft
