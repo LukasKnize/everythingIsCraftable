@@ -1,0 +1,31 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "eic:nether_star"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:skull",
+				"data": 1
+			},
+			"o": {
+				"item": "minecraft:diamond"
+			},
+			"q": {
+				"item": "minecraft:quartz"
+			}
+		},
+		"pattern": [
+			"#q#",
+			"qoq",
+			"#q#"
+		],
+		"result": {
+			"item": "minecraft:nether_star"
+		}
+	}
+}

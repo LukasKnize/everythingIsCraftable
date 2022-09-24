@@ -2,17 +2,17 @@
 	"format_version": "1.12",
 	"minecraft:recipe_shaped": {
 		"description": {
-			"identifier": "eic:deepslate_lapis_ore"
+			"identifier": "eic:ancient_debris"
 		},
 		"tags": [
 			"crafting_table"
 		],
 		"key": {
 			"#": {
-				"item": "minecraft:cobbled_deepslate"
+				"item": "minecraft:netherrack"
 			},
 			"o": {
-				"item": "minecraft::lapis_lazuli"
+				"item": "minecraft:netherite_scrap"
 			}
 		},
 		"pattern": [
@@ -21,7 +21,7 @@
 			"###"
 		],
 		"result": {
-			"item": "minecraft:deepslate_lapis_ore"
+			"item": "minecraft:ancient_debris"
 		}
 	}
 }
