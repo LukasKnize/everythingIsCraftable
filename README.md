@@ -30,6 +30,7 @@ list of now available recepies:
 - grass
 - netherite armor
 - netherite scrap
+- brick
 - nether brick
 - ancient debris
 - wither star
