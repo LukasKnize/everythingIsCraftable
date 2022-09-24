@@ -1,4 +1,4 @@
-# Everithing is craftable
+# Everything is craftable
 
 Addon that adds crafting recepies to all uncraftable items and blocks
 
@@ -28,3 +28,9 @@ list of now available recepies:
 - cobblestone
 - chainmail armor
 - grass
+- netherite armor
+- netherite scrap
+- nether brick
+- ancient debris
+- wither star
+- nether wart
